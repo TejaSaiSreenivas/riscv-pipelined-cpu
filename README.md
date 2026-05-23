@@ -22,6 +22,10 @@ The design has been verified using a custom assembly test suite that intentional
 
 Machine code generation was handled via [Ripes](https://github.com/mortbopet/Ripes). Simulation and waveform analysis were performed using Icarus Verilog and GTKWave.
 
+## Team Details:
+
+This project was built as a part of coursework by Teja Sai Sreenivas, Hithin Sai, Sathwik.
+
 ### Running the Testbench
 To run the simulation using Icarus Verilog:
 ```bash
